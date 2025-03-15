@@ -1,4 +1,4 @@
-# PRODIGY_ML_02
+# Grouping customers based on their purchase history 
 Group customers of a retail store based on their purchase history
 Overview:
 This project aims to implement a K-means clustering algorithm to group customers of a retail store based on their purchase history. The dataset used for this project is sourced from Kaggle and contains relevant information about customer transactions.
